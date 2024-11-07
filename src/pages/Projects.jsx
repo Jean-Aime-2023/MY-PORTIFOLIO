@@ -1,7 +1,7 @@
 
 const Projects = () => {
   return (
-    <div>Projects</div>
+    <section className='max-container'>Projects</section>
   )
 }
 
