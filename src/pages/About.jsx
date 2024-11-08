@@ -97,7 +97,7 @@ const About = () => {
 
       <hr className="border-slate-200" />
 
-      <div className="mb-10">
+      <div className="mb-6">
         <CTA />
       </div>
 
